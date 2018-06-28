@@ -1,4 +1,6 @@
 # beehive
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmpanepinto%2Fbeehive.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmpanepinto%2Fbeehive?ref=badge_shield)
+
 
 Latest Version: 1.0.0
 
@@ -50,3 +52,7 @@ To install the latest development version:
 * [sphinx](http://http://www.sphinx-doc.org/en/1.4.8/)
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmpanepinto%2Fbeehive.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmpanepinto%2Fbeehive?ref=badge_large)
